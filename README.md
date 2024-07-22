@@ -1,4 +1,6 @@
-# 20240525-MERCHANDISE-SHOP-WITH-FLASK-AND-SQLITE
+# 20240525
+-MERCHANDISE-SHOP-WITH-FLASK-AND-SQLITE
+This is Merchandise shop stock management site with Flask and Sqlite
 python3 -m venv 240525
 source venv/bin/activate
 
